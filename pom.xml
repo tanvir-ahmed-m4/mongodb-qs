@@ -23,7 +23,7 @@
         <groupId>org.mongodb</groupId>
         <artifactId>mongodb-driver-sync</artifactId>
         <!-- <version>3.8.2</version> -->
-        <version>4.0.3</version>
+        <version>4.0.6</version>
     </dependency>
     <dependency>
       <groupId>ch.qos.logback</groupId>
